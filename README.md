@@ -1,2 +1,0 @@
-# ZSE---zadania
-School tasks
